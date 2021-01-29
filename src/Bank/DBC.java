@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBC {
-	// DB에 접속하기 위한 메소드 DBConnect()
+	// DB에 접속하기 위한 메소드 DBConnect()1
 	public static Connection DBConnect() {
 		// DB에 접속정보 저장을 위한 Connection 변수 con 선언
 		Connection con = null;
